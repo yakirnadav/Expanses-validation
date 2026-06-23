@@ -5,8 +5,8 @@
 ## הרצה
 
 ```bash
-git clone https://github.com/yakirnadav/expanses-validation.git
-cd expanses-validation
+git clone https://github.com/yakirnadav/Expanses-validation.git
+cd Expanses-validation
 git checkout claude/elegant-fermi-049e6g
 npm install
 cp .env.local.example .env.local
